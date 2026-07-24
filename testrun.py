@@ -1,5 +1,5 @@
-from test2ai import Muse2LSTMProcessor
-from test import SnakeGame, EEGSnakeRecorder
+from lstm import Muse2LSTMProcessor
+from snake import SnakeGame, EEGSnakeRecorder
 import pygame
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.model_selection import train_test_split
